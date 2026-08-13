@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Strict Protocol Android Builder",
+  "description": "A professional development tool designed to follow strict technical guidelines for creating precise, error-free, and high-quality Android applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
